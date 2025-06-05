@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { MobileWrapper } from './MobileWrapper';
@@ -59,9 +58,11 @@ export default function Landing() {
     <Container>
       <Title>Welcome to PopX</Title>
       <Subtitle>Lorem ipsum dolor sit amet</Subtitle>
-      <Button to="/signup" primary>Create Account</Button>
+      <Button to="/signup" primary>Create Account</Button> 
       <Button to="/login">Already Registered? Login</Button>
     </Container>
     </MobileWrapper>
   );
 }
+
+ 

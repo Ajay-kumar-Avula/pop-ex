@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { MobileWrapper } from './MobileWrapper';
 import styled from "styled-components";
 import { authenticate } from "./utils";

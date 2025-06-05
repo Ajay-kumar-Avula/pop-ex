@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import { MobileWrapper } from './MobileWrapper';
 import { FaCamera } from "react-icons/fa";
